@@ -1,0 +1,3 @@
+# Resume Placeholder
+Place Baseeth's updated `resume.pdf` in this `public` directory.
+When clicked, the folder icon in the bottom-left toolbar downloads or opens `/resume.pdf`.
